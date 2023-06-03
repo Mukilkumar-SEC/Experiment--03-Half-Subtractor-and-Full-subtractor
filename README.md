@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -32,23 +32,30 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Write the detailed procedure here 
 
 
-## Program:
-/*
+## Program1:
+![p](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/pr.png)
+## Program2:
+![p1](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/pr1.png)
+```
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: Mukil kumar v
+RegisterNumber:  212222230087
+```
 
 ## Output:
 
-## Truthtable
-
-
-
+## Truthtable1:
+![tt](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/tt.png)
+## Truthtable2:
+![tt](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/tt1.png)
 ##  RTL realization
-
-
-## Timing diagram 
-
+## RTL 1:
+![r](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/rtl.png)
+## RTL 2:
+![r](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/rtl1.png)
+## Timing diagram 1:
+![td](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/td.png)
+## Timing diagram 2:
+![td](https://github.com/Yamunaasri/Experiment--03-Half-Subtractor-and-Full-subtractor/blob/main/td1.png)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
